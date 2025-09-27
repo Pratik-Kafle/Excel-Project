@@ -4,7 +4,7 @@ This project is a comprehensive data analysis of sales transactions from a multi
 
 The final output is a visualized  Performance Dashboard that highlights revenue trends, product performance, and store efficiency, built upon cleaned and aggregated data.  
 
-[Checkout my work here](CoffeeShopSales.xlsx)  
+[Checkout my work here](Coffee_Shop_Sales.xlsx)  
 **Tools Used**  
 
 - Data Preparation & Analysis: Microsoft Excel
