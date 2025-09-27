@@ -39,5 +39,6 @@ The following sections present the core business insights derived from the analy
 <img width="612" height="402" alt="Transaction by Product Category" src="https://github.com/user-attachments/assets/922c478c-34b4-4b55-b54b-8f3dcb92fb26" />
 
 4. **Top 15 Product by Revenue**
+<img width="535" height="409" alt="Top 15 Product by Revenue" src="https://github.com/user-attachments/assets/7663fb24-2ea0-41b5-a451-247835d5be96" />
 
-<img width="545" height="413" alt="Top 15 Product" src="https://github.com/user-attachments/assets/cac9ad07-9543-4e10-9e48-a65495f9e269" />
+
