@@ -32,7 +32,7 @@ This project explores sales data from a local coffee shop to uncover patterns, t
  
 ### 📅Transaction by Days of Week  
 
-> Monday and Thursday consistently show the highest transaction volume, likely driven by Start-of-week routines .Tuesdays and Wednesday tend to be slower. This pattern reveals how customer behavior shifts across the week—valuable for staffing, inventory planning, and targeted marketing.
+> Monday and Thursday consistently show the highest transaction volume.Tuesdays and Wednesday tend to be slower. This pattern reveals how customer behavior shifts across the week—valuable for staffing, inventory planning, and targeted marketing.
 
 <img width="843" height="361" alt="3_Transaction by Days of Week" src="https://github.com/user-attachments/assets/a09d5d25-9cba-4d39-a992-faaa2d58746b" />
 
