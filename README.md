@@ -1,44 +1,63 @@
-# Coffee Shop Sales Data Analysis & Dashboard
-**Project Overview**  
-This project is a comprehensive data analysis of sales transactions from a multi-location coffee shop chain over a six-month period (January - June 2025). The goal was to transform raw sales data into actionable business intelligence by identifying key performance indicators, understanding customer purchasing patterns, and providing a dynamic dashboard for operational management. 
+# ☕ Coffee Shop Sales Analysis
 
-The final output is a visualized  Performance Dashboard that highlights revenue trends, product performance, and store efficiency, built upon cleaned and aggregated data.  
+> Turning daily transactions into strategic insights for smarter coffee business decisions.
 
-[Checkout my work here](Coffee_Shop_Sales.xlsx)  
-**Tools Used**  
+## 📌 Project Summary
+This project explores sales data from a local coffee shop to uncover patterns, trends, and opportunities. From identifying peak hours to recommending pricing strategies, it showcases how data can drive real-world business growth.
 
-- Data Preparation & Analysis: Microsoft Excel
-- Visualization & Dashboarding: Spreadsheet tools
+## 🎯 Goals
+- Analyze product performance and customer behavior
+- Discover seasonal and hourly sales trends
+- Recommend actionable strategies to boost revenue
 
-**Methodology**  
+## 🛠️ Tools Used
+- **Excel**: Data cleaning, Pivot Tables, Trend Analysis, DashBoard
 
-1. Data Cleaning & Feature Engineering:
-- Created the Revenue field (Quantity×Unit Price).
-- Extracted temporal features (Month, Weekday, Hour) from the transaction date and time fields.
-2. Aggregation:
-- Used pivot tables to summarize sales metrics by month, store location, and product type.
-3. Visualization
--Designed a dashboard layout emphasizing key performance indicators (KPIs) and critical operational insights.
+## 📊 Key Visuals
 
-**Key Finding & Insight(Visual Summary)**  
+### 📅 Monthly Revenue Trends
 
-The following sections present the core business insights derived from the analysis, using bar charts to simulate the key visuals from the final dashboard.
+> Total revenue for the six months exceeded $698,000. The period showed robust growth, with sales more than doubling from January to June, indicating successful seasonal capture and/or effective scaling.
 
-1. **Total Revenue by Months:**  
-**Insight**: Total revenue for the six months exceeded $698,000. The period showed robust growth, with sales more than doubling from January to June, indicating successful seasonal capture and/or effective scaling.
-<img width="980" height="291" alt="Revenue By Months" src="https://github.com/user-attachments/assets/e4f783ed-d275-4d5f-b362-df0aa7ba0feb" />
+<img width="1115" height="394" alt="1_monthly_revenue" src="https://github.com/user-attachments/assets/13e97fb6-618a-4df4-b290-516edad019c7" />
 
-2. **Transaction by Hour of Day:**  
-**Insight**:  Customer traffic is highly concentrated in the mid-to-late morning, peaking significantly between 8:00 AM to 10:00 AM. This is the critical two-hour window for optimizing staffing levels and minimizing customer wait times.
+### 🕒 Hourly Sales Distribution
 
-<img width="541" height="326" alt="Transaction by Hours of Day" src="https://github.com/user-attachments/assets/ef0c64d7-f069-415f-87c3-13c892671574" />
+> Customer traffic is highly concentrated in the mid-to-late morning, peaking significantly between 8:00 AM to 10:00 AM. This is the critical two-hour window for optimizing staffing levels and minimizing customer wait times.
 
-3. **Transaction by Product Category:**  
-**Insight**: While Coffee and Tea dominate transaction volume, the Barista Espresso product type is the single highest revenue generator. Operational focus should be placed on high-margin espresso drinks.
+<img width="1037" height="370" alt="2_Transaction by Hour of Day" src="https://github.com/user-attachments/assets/893f07ed-499a-464d-996e-4f462af5792d" />
+ 
+### 📅Transaction by Days of Week  
 
-<img width="612" height="402" alt="Transaction by Product Category" src="https://github.com/user-attachments/assets/922c478c-34b4-4b55-b54b-8f3dcb92fb26" />
+> Monday and Thursday consistently show the highest transaction volume, likely driven by Start-of-week routines .Tuesdays and Wednesday tend to be slower. This pattern reveals how customer behavior shifts across the week—valuable for staffing, inventory planning, and targeted marketing.
 
-4. **Top 15 Product by Revenue**
-<img width="535" height="409" alt="Top 15 Product by Revenue" src="https://github.com/user-attachments/assets/7663fb24-2ea0-41b5-a451-247835d5be96" />
+<img width="843" height="361" alt="3_Transaction by Days of Week" src="https://github.com/user-attachments/assets/a09d5d25-9cba-4d39-a992-faaa2d58746b" />
 
 
+### 🕒 Revenue Per Time Period
+
+> Morning hours consistently generate the highest revenue, driven by commuter traffic and breakfast orders. Night hours show the lowest sales, indicating a potential opportunity for late-night promotions or cost-saving adjustments.
+
+<img width="829" height="377" alt="4_Revenue per time period" src="https://github.com/user-attachments/assets/b2c25557-4b62-49d6-b59c-a7187fd13ef4" />
+
+### 🔥 Top-Selling Products
+
+> Brewed Chai dominates the menu, with over 17,000 units sold, outperforming all other beverages. This signals strong customer preference and brand loyalty—ideal for upselling and bundling strategies.
+
+<img width="1039" height="474" alt="5_Top 15 Product" src="https://github.com/user-attachments/assets/a44ecc63-4c28-457f-8d9d-d8fc2aa2e400" />
+
+### 🧾**Transaction by Product Category:**
+
+> While Coffee and Tea dominate transaction volume, the Barista Espresso product type is the single highest revenue generator. Operational focus should be placed on high-margin espresso drinks.
+
+<img width="831" height="466" alt="6_Transactionby Product Category" src="https://github.com/user-attachments/assets/b1696542-caac-454b-b6ad-ddafa65338e4" />
+
+
+## 💡 Insights & Recommendations
+- **Bundle Strategy**: Pair bestsellers with underperforming items to increase average order value.
+- **Loyalty Program**: Target frequent morning customers with rewards.
+- **Seasonal Promotions**: Boost visibility of high-margin seasonal drinks.
+
+## 🧠 What I Learned
+- Translating messy data into business strategy
+- Building compelling visuals that tell a story
