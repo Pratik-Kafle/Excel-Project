@@ -5,6 +5,9 @@
 ## 📌 Project Summary
 This project explores sales data from a local coffee shop to uncover patterns, trends, and opportunities. From identifying peak hours to recommending pricing strategies, it showcases how data can drive real-world business growth.
 
+[Checkout my Work Here](Coffee_Shop_Sales.xlsx)
+
+
 ## 🎯 Goals
 - Analyze product performance and customer behavior
 - Discover seasonal and hourly sales trends
